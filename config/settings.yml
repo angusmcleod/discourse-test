@@ -1,0 +1,2 @@
+plugins:
+  discourse_test_enabled: true
